@@ -1,0 +1,11 @@
+C:\Users\ZİŞAN\Source\Repos\EmlakKayitProgramı\EmlakKayitProgramı\bin\Debug\EmlakKayitProgramı.exe.config
+C:\Users\ZİŞAN\Source\Repos\EmlakKayitProgramı\EmlakKayitProgramı\bin\Debug\EmlakKayitProgramı.exe
+C:\Users\ZİŞAN\Source\Repos\EmlakKayitProgramı\EmlakKayitProgramı\bin\Debug\EmlakKayitProgramı.pdb
+C:\Users\ZİŞAN\Source\Repos\EmlakKayitProgramı\EmlakKayitProgramı\obj\Debug\EmlakKayitProgramı.csprojAssemblyReference.cache
+C:\Users\ZİŞAN\Source\Repos\EmlakKayitProgramı\EmlakKayitProgramı\obj\Debug\EmlakKayitProgramı.Anasayfa.resources
+C:\Users\ZİŞAN\Source\Repos\EmlakKayitProgramı\EmlakKayitProgramı\obj\Debug\EmlakKayitProgramı.Form1.resources
+C:\Users\ZİŞAN\Source\Repos\EmlakKayitProgramı\EmlakKayitProgramı\obj\Debug\EmlakKayitProgramı.Properties.Resources.resources
+C:\Users\ZİŞAN\Source\Repos\EmlakKayitProgramı\EmlakKayitProgramı\obj\Debug\EmlakKayitProgramı.csproj.GenerateResource.cache
+C:\Users\ZİŞAN\Source\Repos\EmlakKayitProgramı\EmlakKayitProgramı\obj\Debug\EmlakKayitProgramı.csproj.CoreCompileInputs.cache
+C:\Users\ZİŞAN\Source\Repos\EmlakKayitProgramı\EmlakKayitProgramı\obj\Debug\EmlakKayitProgramı.exe
+C:\Users\ZİŞAN\Source\Repos\EmlakKayitProgramı\EmlakKayitProgramı\obj\Debug\EmlakKayitProgramı.pdb

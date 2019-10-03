@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharp Tarayıcı", "cSharp Tarayıcı\cSharp Tarayıcı.csproj", "{90903BF4-E333-409E-8BEC-44114B475CB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90903BF4-E333-409E-8BEC-44114B475CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90903BF4-E333-409E-8BEC-44114B475CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90903BF4-E333-409E-8BEC-44114B475CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90903BF4-E333-409E-8BEC-44114B475CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E6BB8E6-66B5-48AA-8DE0-BAC20D99D923}
+	EndGlobalSection
+EndGlobal

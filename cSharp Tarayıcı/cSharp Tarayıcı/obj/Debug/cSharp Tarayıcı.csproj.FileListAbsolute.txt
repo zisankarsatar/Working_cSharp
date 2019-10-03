@@ -1,0 +1,30 @@
+C:\Users\ZİŞAN\Source\Repos\cSharp Tarayıcı\cSharp Tarayıcı\bin\Debug\cSharp Tarayıcı.exe.config
+C:\Users\ZİŞAN\Source\Repos\cSharp Tarayıcı\cSharp Tarayıcı\bin\Debug\cSharp Tarayıcı.exe
+C:\Users\ZİŞAN\Source\Repos\cSharp Tarayıcı\cSharp Tarayıcı\bin\Debug\cSharp Tarayıcı.pdb
+C:\Users\ZİŞAN\Source\Repos\cSharp Tarayıcı\cSharp Tarayıcı\bin\Debug\Interop.WMPLib.dll
+C:\Users\ZİŞAN\Source\Repos\cSharp Tarayıcı\cSharp Tarayıcı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ZİŞAN\Source\Repos\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\cSharp Tarayıcı.csprojAssemblyReference.cache
+C:\Users\ZİŞAN\Source\Repos\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\Interop.WMPLib.dll
+C:\Users\ZİŞAN\Source\Repos\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ZİŞAN\Source\Repos\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\cSharp Tarayıcı.csproj.ResolveComReference.cache
+C:\Users\ZİŞAN\Source\Repos\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\cSharp_Tarayıcı.cSharp.resources
+C:\Users\ZİŞAN\Source\Repos\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\cSharp_Tarayıcı.Properties.Resources.resources
+C:\Users\ZİŞAN\Source\Repos\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\cSharp Tarayıcı.csproj.GenerateResource.cache
+C:\Users\ZİŞAN\Source\Repos\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\cSharp Tarayıcı.csproj.CoreCompileInputs.cache
+C:\Users\ZİŞAN\Source\Repos\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\cSharp Tarayıcı.exe
+C:\Users\ZİŞAN\Source\Repos\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\cSharp Tarayıcı.pdb
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\cSharp Tarayıcı\cSharp Tarayıcı\bin\Debug\cSharp Tarayıcı.exe.config
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\cSharp Tarayıcı\cSharp Tarayıcı\bin\Debug\cSharp Tarayıcı.exe
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\cSharp Tarayıcı\cSharp Tarayıcı\bin\Debug\cSharp Tarayıcı.pdb
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\cSharp Tarayıcı\cSharp Tarayıcı\bin\Debug\Interop.WMPLib.dll
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\cSharp Tarayıcı\cSharp Tarayıcı\bin\Debug\AxInterop.WMPLib.dll
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\cSharp Tarayıcı.csprojAssemblyReference.cache
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\Interop.WMPLib.dll
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\AxInterop.WMPLib.dll
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\cSharp Tarayıcı.csproj.ResolveComReference.cache
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\cSharp_Tarayıcı.cSharp.resources
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\cSharp_Tarayıcı.Properties.Resources.resources
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\cSharp Tarayıcı.csproj.GenerateResource.cache
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\cSharp Tarayıcı.csproj.CoreCompileInputs.cache
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\cSharp Tarayıcı.exe
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\cSharp Tarayıcı\cSharp Tarayıcı\obj\Debug\cSharp Tarayıcı.pdb

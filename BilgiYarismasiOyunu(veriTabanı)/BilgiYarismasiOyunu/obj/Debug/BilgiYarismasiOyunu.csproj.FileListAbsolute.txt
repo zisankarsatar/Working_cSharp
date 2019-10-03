@@ -1,0 +1,10 @@
+C:\Users\ZİŞAN\Source\Repos\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\BilgiYarismasiOyunu.exe.config
+C:\Users\ZİŞAN\Source\Repos\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\BilgiYarismasiOyunu.exe
+C:\Users\ZİŞAN\Source\Repos\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\BilgiYarismasiOyunu.pdb
+C:\Users\ZİŞAN\Source\Repos\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\BilgiYarismasiOyunu.csprojAssemblyReference.cache
+C:\Users\ZİŞAN\Source\Repos\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\BilgiYarismasiOyunu.BilgiYarismasi.resources
+C:\Users\ZİŞAN\Source\Repos\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\BilgiYarismasiOyunu.Properties.Resources.resources
+C:\Users\ZİŞAN\Source\Repos\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\BilgiYarismasiOyunu.csproj.GenerateResource.cache
+C:\Users\ZİŞAN\Source\Repos\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\BilgiYarismasiOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ZİŞAN\Source\Repos\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\BilgiYarismasiOyunu.exe
+C:\Users\ZİŞAN\Source\Repos\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\BilgiYarismasiOyunu.pdb

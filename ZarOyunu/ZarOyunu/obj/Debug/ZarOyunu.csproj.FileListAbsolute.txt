@@ -1,0 +1,20 @@
+C:\Users\ZİŞAN\Source\Repos\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.exe.config
+C:\Users\ZİŞAN\Source\Repos\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.exe
+C:\Users\ZİŞAN\Source\Repos\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.pdb
+C:\Users\ZİŞAN\Source\Repos\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.csprojAssemblyReference.cache
+C:\Users\ZİŞAN\Source\Repos\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.Form1.resources
+C:\Users\ZİŞAN\Source\Repos\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.Properties.Resources.resources
+C:\Users\ZİŞAN\Source\Repos\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.csproj.GenerateResource.cache
+C:\Users\ZİŞAN\Source\Repos\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ZİŞAN\Source\Repos\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.exe
+C:\Users\ZİŞAN\Source\Repos\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.pdb
+D:\YAZILIM\proje\Yaz C# Calismalari(19-yaz)\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.exe.config
+D:\YAZILIM\proje\Yaz C# Calismalari(19-yaz)\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.exe
+D:\YAZILIM\proje\Yaz C# Calismalari(19-yaz)\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.pdb
+D:\YAZILIM\proje\Yaz C# Calismalari(19-yaz)\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.csprojAssemblyReference.cache
+D:\YAZILIM\proje\Yaz C# Calismalari(19-yaz)\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.Form1.resources
+D:\YAZILIM\proje\Yaz C# Calismalari(19-yaz)\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.Properties.Resources.resources
+D:\YAZILIM\proje\Yaz C# Calismalari(19-yaz)\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.csproj.GenerateResource.cache
+D:\YAZILIM\proje\Yaz C# Calismalari(19-yaz)\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.csproj.CoreCompileInputs.cache
+D:\YAZILIM\proje\Yaz C# Calismalari(19-yaz)\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.exe
+D:\YAZILIM\proje\Yaz C# Calismalari(19-yaz)\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.pdb

@@ -1,0 +1,20 @@
+C:\Users\ZİŞAN\Source\Repos\AtYarisi\AtYarisi\obj\Debug\AtYarisi.csprojAssemblyReference.cache
+C:\Users\ZİŞAN\Source\Repos\AtYarisi\AtYarisi\obj\Debug\AtYarisi.Form1.resources
+C:\Users\ZİŞAN\Source\Repos\AtYarisi\AtYarisi\obj\Debug\AtYarisi.Properties.Resources.resources
+C:\Users\ZİŞAN\Source\Repos\AtYarisi\AtYarisi\obj\Debug\AtYarisi.csproj.GenerateResource.cache
+C:\Users\ZİŞAN\Source\Repos\AtYarisi\AtYarisi\obj\Debug\AtYarisi.csproj.CoreCompileInputs.cache
+C:\Users\ZİŞAN\Source\Repos\AtYarisi\AtYarisi\bin\Debug\AtYarisi.exe.config
+C:\Users\ZİŞAN\Source\Repos\AtYarisi\AtYarisi\bin\Debug\AtYarisi.exe
+C:\Users\ZİŞAN\Source\Repos\AtYarisi\AtYarisi\bin\Debug\AtYarisi.pdb
+C:\Users\ZİŞAN\Source\Repos\AtYarisi\AtYarisi\obj\Debug\AtYarisi.exe
+C:\Users\ZİŞAN\Source\Repos\AtYarisi\AtYarisi\obj\Debug\AtYarisi.pdb
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\AtYarisi\AtYarisi\bin\Debug\AtYarisi.exe.config
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\AtYarisi\AtYarisi\bin\Debug\AtYarisi.exe
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\AtYarisi\AtYarisi\bin\Debug\AtYarisi.pdb
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\AtYarisi\AtYarisi\obj\Debug\AtYarisi.csprojAssemblyReference.cache
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\AtYarisi\AtYarisi\obj\Debug\AtYarisi.Form1.resources
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\AtYarisi\AtYarisi\obj\Debug\AtYarisi.Properties.Resources.resources
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\AtYarisi\AtYarisi\obj\Debug\AtYarisi.csproj.GenerateResource.cache
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\AtYarisi\AtYarisi\obj\Debug\AtYarisi.csproj.CoreCompileInputs.cache
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\AtYarisi\AtYarisi\obj\Debug\AtYarisi.exe
+D:\YAZILIM\PROJE\Yaz C# Calismalari(19-yaz)\AtYarisi\AtYarisi\obj\Debug\AtYarisi.pdb
