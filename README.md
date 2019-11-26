@@ -1,4 +1,4 @@
 # cSharp-YazCalismalari
+2019 Yazı C# çalışmalarım.
 
-
-Kaynak : https://www.youtube.com/watch?v=GGXE44ucqCE&list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K
+<b>Kaynak : https://www.youtube.com/watch?v=GGXE44ucqCE&list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K</b>
