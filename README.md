@@ -1,5 +1,7 @@
 # cSharp-YazCalismalari
-2019 Yazı C# çalışmalarım.
+2019 Yaz tatilinde C# dili kullanarak yaptığım çalışmalarım.
+Visual Stdio 2017
+
 
 ## Uygulama Görselleri
 At Yarışı Oyunu
@@ -14,4 +16,4 @@ At Yarışı Oyunu
 ![Tarayıcı](https://user-images.githubusercontent.com/48350459/71788325-3beb5d00-3032-11ea-9c7f-e812ffc51963.png)
 
 ## Kaynak
-<b> : https://www.youtube.com/watch?v=GGXE44ucqCE&list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K</b>
+<b> https://www.youtube.com/watch?v=GGXE44ucqCE&list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K</b>
